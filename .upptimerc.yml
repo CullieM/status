@@ -11,11 +11,11 @@ sites:
     url: https://culliem.com
   - name: Personal Site Redirect #(Cloudflare Redirect Rule)
     url: https://cullie.dev
-  - name: Minecraft Server
-    url: $MINECRAFT_SERVER
-    port: 25565
-    check: "tcp-ping"
-    ipv6: false
+#  - name: Minecraft Server
+#    url: $MINECRAFT_SERVER
+#    port: 25565
+#    check: "tcp-ping"
+#    ipv6: false
 
 status-website:
   cname: culliem.com
