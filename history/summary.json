@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1474,
     "timeDay": 1475,
-    "timeWeek": 1479,
+    "timeWeek": 1480,
     "timeMonth": 1502,
     "timeYear": 1474,
     "dailyMinutesDown": {}
@@ -40,10 +40,10 @@
     "url": "https://culliem.com",
     "icon": "https://icons.duckduckgo.com/ip3/culliem.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
@@ -51,24 +51,28 @@
     "timeWeek": 154,
     "timeMonth": 159,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 1
+    }
   },
   {
     "name": "Personal Site Redirect",
     "url": "https://cullie.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cullie.dev.ico",
     "slug": "personal-site-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 119,
-    "timeWeek": 127,
+    "timeWeek": 126,
     "timeMonth": 129,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 2
+    }
   }
 ]
