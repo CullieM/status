@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
-    "timeDay": 995,
+    "timeDay": 996,
     "timeWeek": 1007,
     "timeMonth": 1030,
     "timeYear": 1016,
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/culliem.com.ico",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "84.46%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "83.80%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.75%",
     "time": 162,
-    "timeDay": 145,
+    "timeDay": 144,
     "timeWeek": 154,
     "timeMonth": 159,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-11-24": 224
+      "2024-11-24": 233
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cullie.dev.ico",
     "slug": "personal-site-redirect",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "84.44%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.75%",
     "time": 132,
-    "timeDay": 123,
+    "timeDay": 122,
     "timeWeek": 127,
     "timeMonth": 129,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-11-24": 224
+      "2024-11-24": 234
     }
   }
 ]
