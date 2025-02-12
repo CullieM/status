@@ -1,7 +1,7 @@
 url: https://request.cullie.dev
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-12T13:43:28.993Z
+code: 502
+responseTime: 9070
+lastUpdated: 2025-02-12T14:25:28.095Z
 startTime: 2024-09-20T02:06:39.966Z
 generator: Upptime <https://github.com/upptime/upptime>
