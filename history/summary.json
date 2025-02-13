@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.cullie.dev.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "98.82%",
+    "uptime": "98.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "98.82%",
+    "uptimeWeek": "76.37%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "98.81%",
     "time": 1023,
     "timeDay": 16198,
     "timeWeek": 1435,
@@ -17,7 +17,7 @@
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2025-02-12": 1431,
-      "2025-02-13": 843,
+      "2025-02-13": 856,
       "2025-02-11": 96,
       "2025-01-26": 120
     }
@@ -30,8 +30,8 @@
     "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.58%",
-    "uptimeMonth": "94.61%",
+    "uptimeWeek": "76.45%",
+    "uptimeMonth": "94.58%",
     "uptimeYear": "98.88%",
     "time": 1487,
     "timeDay": 14574,
@@ -39,7 +39,7 @@
     "timeMonth": 1567,
     "timeYear": 1487,
     "dailyMinutesDown": {
-      "2025-02-13": 845,
+      "2025-02-13": 857,
       "2025-02-12": 1423,
       "2025-02-11": 93
     }
