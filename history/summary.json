@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.cullie.dev.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "96.96%",
+    "uptime": "96.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "96.34%",
     "time": 1147,
-    "timeDay": 1290,
-    "timeWeek": 1358,
+    "timeDay": 1308,
+    "timeWeek": 1316,
     "timeMonth": 1379,
     "timeYear": 1148,
     "dailyMinutesDown": {
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.11%",
     "time": 1602,
-    "timeDay": 1628,
-    "timeWeek": 1683,
-    "timeMonth": 1718,
+    "timeDay": 1638,
+    "timeWeek": 1681,
+    "timeMonth": 1717,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -94,10 +94,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.40%",
+    "uptimeYear": "90.43%",
     "time": 146,
-    "timeDay": 152,
-    "timeWeek": 165,
+    "timeDay": 153,
+    "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -134,8 +134,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   },
   {
@@ -144,13 +143,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/cullie.dev.ico",
     "slug": "personal-site-redirect",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "90.39%",
+    "uptimeYear": "90.42%",
     "time": 135,
-    "timeDay": 142,
+    "timeDay": 143,
     "timeWeek": 129,
     "timeMonth": 136,
     "timeYear": 135,
@@ -189,8 +188,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   }
 ]
