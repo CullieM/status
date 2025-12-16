@@ -11,9 +11,9 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "96.34%",
     "time": 1160,
-    "timeDay": 1224,
-    "timeWeek": 1288,
-    "timeMonth": 1364,
+    "timeDay": 1208,
+    "timeWeek": 1286,
+    "timeMonth": 1363,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.11%",
     "time": 1611,
-    "timeDay": 1636,
-    "timeWeek": 1674,
-    "timeMonth": 1701,
+    "timeDay": 1619,
+    "timeWeek": 1673,
+    "timeMonth": 1700,
     "timeYear": 1612,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/culliem.com.ico",
     "slug": "personal-site",
     "status": "up",
-    "uptime": "90.20%",
+    "uptime": "90.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "93.69%",
+    "uptimeYear": "93.71%",
     "time": 147,
-    "timeDay": 154,
-    "timeWeek": 160,
-    "timeMonth": 161,
+    "timeDay": 156,
+    "timeWeek": 161,
+    "timeMonth": 162,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-12-09": 33,
@@ -123,8 +123,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -137,9 +136,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "93.68%",
+    "uptimeYear": "93.70%",
     "time": 135,
-    "timeDay": 131,
+    "timeDay": 129,
     "timeWeek": 133,
     "timeMonth": 131,
     "timeYear": 135,
@@ -166,8 +165,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   }
 ]
