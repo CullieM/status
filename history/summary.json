@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.cullie.dev.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "97.36%",
+    "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.17%",
     "time": 1205,
-    "timeDay": 1158,
+    "timeDay": 1145,
     "timeWeek": 1255,
     "timeMonth": 1267,
     "timeYear": 1203,
@@ -39,8 +39,7 @@
       "2025-03-30": 101,
       "2025-03-15": 36,
       "2025-02-17": 128,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -53,11 +52,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.91%",
     "time": 1650,
-    "timeDay": 1690,
-    "timeWeek": 1792,
-    "timeMonth": 1750,
+    "timeDay": 1675,
+    "timeWeek": 1787,
+    "timeMonth": 1749,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2026-02-12": 44,
@@ -77,8 +76,7 @@
       "2025-03-30": 101,
       "2025-03-15": 36,
       "2025-02-17": 128,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -93,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 165,
+    "timeDay": 164,
     "timeWeek": 161,
     "timeMonth": 166,
     "timeYear": 154,
@@ -107,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cullie.dev.ico",
     "slug": "personal-site-redirect",
     "status": "up",
-    "uptime": "91.36%",
+    "uptime": "91.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 120,
-    "timeWeek": 240,
+    "timeDay": 121,
+    "timeWeek": 239,
     "timeMonth": 204,
     "timeYear": 144,
     "dailyMinutesDown": {
