@@ -10,10 +10,10 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "97.72%",
-    "time": 1223,
-    "timeDay": 1197,
-    "timeWeek": 1264,
-    "timeMonth": 1193,
+    "time": 1224,
+    "timeDay": 1189,
+    "timeWeek": 1267,
+    "timeMonth": 1191,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2026-03-24": 41,
@@ -37,8 +37,7 @@
       "2025-09-22": 897,
       "2025-05-05": 30,
       "2025-04-29": 24,
-      "2025-03-31": 62,
-      "2025-03-30": 101
+      "2025-03-31": 62
     }
   },
   {
@@ -47,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.cullie.dev.ico",
     "slug": "jellyseerr",
     "status": "down",
-    "uptime": "97.50%",
+    "uptime": "97.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.72%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "97.61%",
+    "uptimeWeek": "1.07%",
+    "uptimeMonth": "77.24%",
+    "uptimeYear": "97.58%",
     "time": 1650,
-    "timeDay": 793,
-    "timeWeek": 849,
-    "timeMonth": 1462,
+    "timeDay": 796,
+    "timeWeek": 838,
+    "timeMonth": 1466,
     "timeYear": 1651,
     "dailyMinutesDown": {
-      "2026-03-29": 1374,
+      "2026-03-30": 100,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -78,8 +78,7 @@
       "2025-09-22": 896,
       "2025-07-12": 37,
       "2025-05-05": 30,
-      "2025-03-31": 62,
-      "2025-03-30": 101
+      "2025-03-31": 62
     }
   },
   {
@@ -94,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 152,
-    "timeWeek": 171,
-    "timeMonth": 161,
+    "timeDay": 154,
+    "timeWeek": 170,
+    "timeMonth": 163,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-12-09": 33
@@ -108,13 +107,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/cullie.dev.ico",
     "slug": "personal-site-redirect",
     "status": "up",
-    "uptime": "92.03%",
+    "uptime": "92.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 128,
+    "timeDay": 125,
     "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 146,
